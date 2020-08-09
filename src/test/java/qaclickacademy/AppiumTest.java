@@ -16,5 +16,11 @@ public class AppiumTest {
 	{
 		System.out.println("Testing iOS Device");
 	}
+	
+	public void iPadTest()
+	{
+		System.out.println("Testing iPad Device");
+	}
+
 
 }
